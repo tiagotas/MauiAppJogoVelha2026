@@ -13,7 +13,7 @@ namespace MauiAppJogoVelha2026
         {
             var w = new Window(new AppShell());
             w.Height = 750;
-            w.Width = 1080;
+            w.Width = 350;
 
             return w;
         }
